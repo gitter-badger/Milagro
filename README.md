@@ -1,4 +1,6 @@
 # Milagro
+
+[![Join the chat at https://gitter.im/miraclhq/Milagro](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/miraclhq/Milagro?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Home of the Milagro Project: a Cryptosystem for Cloud Computing
 
 ## The problem
